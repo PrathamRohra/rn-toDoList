@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "toDoList",
+    "slug": "toDoList",
+    "extra": {
+      "eas": {
+        "projectId": "523088e8-11e2-4073-a8d1-a98b2aad3979"
+      }
+    },
+    "android": {
+      "package": "com.prathamr.toDoList"
+    }
+  }
+}
